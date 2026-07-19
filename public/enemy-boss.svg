@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="helm" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d77a60"/>
+      <stop offset="100%" stop-color="#701f18"/>
+    </linearGradient>
+    <linearGradient id="armor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a33d2b"/>
+      <stop offset="100%" stop-color="#3c0c09"/>
+    </linearGradient>
+  </defs>
+  <path d="M60 218 92 84h72l32 134" fill="url(#armor)"/>
+  <path d="M82 86c0-31 20-54 46-54s46 23 46 54" fill="url(#helm)"/>
+  <circle cx="128" cy="80" r="30" fill="#52231b"/>
+  <path d="M82 86h92l16 20-20 14H86l-20-14z" fill="#7d231b"/>
+  <path d="M68 218h120l24 18H44z" fill="#5b1711"/>
+  <path d="M44 108 12 164l26 10 38-46" fill="#6e1c15"/>
+  <path d="M212 108 244 164l-26 10-38-46" fill="#6e1c15"/>
+  <path d="M114 76h28v18h-28z" fill="#170706"/>
+  <circle cx="118" cy="84" r="4" fill="#f4d76a"/>
+  <circle cx="138" cy="84" r="4" fill="#f4d76a"/>
+  <g fill="#d1b47a">
+    <path d="M90 56 70 18l18 4 16 28z"/>
+    <path d="M166 56 186 18l-18 4-16 28z"/>
+  </g>
+</svg>

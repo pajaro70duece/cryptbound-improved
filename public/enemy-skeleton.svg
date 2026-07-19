@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5f1e5"/>
+      <stop offset="100%" stop-color="#c8c1af"/>
+    </linearGradient>
+    <linearGradient id="armor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#897d71"/>
+      <stop offset="100%" stop-color="#4e4740"/>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="54" r="34" fill="url(#bone)"/>
+  <circle cx="114" cy="52" r="8" fill="#1c1b19"/>
+  <circle cx="142" cy="52" r="8" fill="#1c1b19"/>
+  <path d="M118 68c7 6 13 6 20 0" stroke="#8b7f72" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M84 92h88l10 26-22 64h-64l-22-64z" fill="url(#armor)"/>
+  <rect x="118" y="86" width="20" height="98" rx="8" fill="url(#bone)"/>
+  <rect x="74" y="112" width="108" height="18" rx="9" fill="url(#bone)"/>
+  <g stroke="url(#bone)" stroke-width="14" stroke-linecap="round">
+    <path d="M90 126 52 164"/><path d="M166 126 204 164"/>
+    <path d="M112 182 96 232"/><path d="M144 182 160 232"/>
+  </g>
+  <g stroke="#b3a28d" stroke-width="8" stroke-linecap="round">
+    <path d="M96 232h-22"/><path d="M160 232h22"/>
+  </g>
+  <path d="M198 92h14v108h-14z" fill="#6b4a2a"/>
+  <path d="M195 92h20l-10-26z" fill="#c1c6cf"/>
+</svg>

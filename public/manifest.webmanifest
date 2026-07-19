@@ -1,0 +1,9 @@
+{
+  "name": "Cryptbound: 100-Level Dungeon",
+  "short_name": "Cryptbound",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08070a",
+  "theme_color": "#171014",
+  "orientation": "landscape"
+}
